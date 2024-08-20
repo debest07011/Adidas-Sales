@@ -1,0 +1,7 @@
+Business problem: As a leading sportswear brand, Adidas requires thorough monitoring of sales metrics and financial KPIs to ensure targets are met. Key executives need customized visualizations to aid strategic decision making.
+
+Approach: I obtained consolidated monthly sales data from multiple global markets. Primary activities involved data cleaning, feature engineering and building interactive charts. Pivot tables enabled preliminary insights in Excel before developing a comprehensive dashboard in Power BI.
+
+Results: The dashboard intuitively displays critical sales metrics. Charts track profit and units over time while maps reveal regional hotspots. Dynamic filtering allows isolation of trends. Product images enhance interpretability. Automatic sorting helps pinpoint outliers.
+
+Business impact: This interactive analysis toolkit equipped leadership with actionable intelligence. By identifying slipping categories and underperforming regions, well-informed plans around product development, sourcing and promotion were facilitated. The customizable platform supports ongoing benchmarking.
